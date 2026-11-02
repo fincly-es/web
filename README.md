@@ -7,3 +7,4 @@ Web estática de [fincly.app](https://fincly.app), publicada con Cloudflare Page
 - `assets/`: tipografía Inter alojada en la propia web (sin Google Fonts) y fotos.
 
 Cada PR genera una vista previa en Cloudflare Pages. Épica en Jira: FIN-5.
+Producción: https://fincly-web.pages.dev (dominio final: https://fincly.app)
